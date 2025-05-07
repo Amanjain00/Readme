@@ -7,6 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **Generative AI**
+
+- 🌱 I’m currently learning **Gen-AI,LLMs,NLP**
+
+- 👯 I’m looking to collaborate on **NLP, RAG**
+
+- 📫 How to reach me **2021pietcsaman017@poornima.org**
+
+- 📄 Know about my experiences [9 Months](9 Months)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
