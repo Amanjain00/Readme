@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **2021pietcsaman017@poornima.org**
 
-- 📄 Know about my experiences [9 Months](9 Months)
+- 📄 Know about my experiences [9 Months]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
